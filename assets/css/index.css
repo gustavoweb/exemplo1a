@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #000;
+}
+main{
+    width: 100%;
+    max-width: 1400px;
+    height: auto;
+    background: #fff;
+    margin: 0 auto;
+}
+header{
+    width: 100%;
+    height: 150px;
+    background: #1fff6a;
+}
+#logo{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background: #f01616;
+    border-radius: 15px;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+section{
+    width: 100%;
+    height: 700px;
+    background: #f4e42e;
+}
+footer{
+    width: 100%;
+    height: 100px;
+    background: #ff2ad1;
+}
